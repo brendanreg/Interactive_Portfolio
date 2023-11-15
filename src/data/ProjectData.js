@@ -6,7 +6,7 @@ export const ProjectList = [
     description:
       "Michigan State Python Boot Camp, coded a simple game in Python using pygame.",
     tech_stack: "Python, Pygame, Thonny",
-    project_url: ""
+    github_url: "https://github.com/brendanreg/GET_REKT"
   }
 ];
 
