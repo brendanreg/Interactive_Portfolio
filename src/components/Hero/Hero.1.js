@@ -24,7 +24,7 @@ export function Hero() {
         <HeroWrapper>
           <HeroLeft>
             <h1>Brendan Regelbrugge</h1>
-            <h5>InfoSec Specialist</h5>
+            <h5>IT Professional</h5>
             <p></p>
           </HeroLeft>
           <HeroRight></HeroRight>
