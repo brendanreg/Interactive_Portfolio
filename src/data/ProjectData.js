@@ -14,23 +14,23 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "",
+    img: "https://github.com/brendanreg/Interactive_Portfolio/blob/main/src/Assets/Git-Icon-1788C.png?raw=true",
     name: "Git"
   },
   {
-    img: "",
+    img: "https://raw.githubusercontent.com/brendanreg/Interactive_Portfolio/a320ca34bd0dcfb491d5b7c11f245919c51b92ce/src/Assets/tux.svg",
     name: "Linux"
   },
   {
-    img: "",
+    img: "https://github.com/brendanreg/Interactive_Portfolio/blob/main/src/Assets/Python-logo-notext.svg.png?raw=true",
     name: "Python"
   },
   {
-    img: "",
+    img: "https://github.com/brendanreg/Interactive_Portfolio/blob/main/src/Assets/sflogo.png?raw=true",
     name: "Wireshark"
   },
   {
-    img: "",
+    img: "https://raw.githubusercontent.com/brendanreg/Interactive_Portfolio/main/src/Assets/ext-550.webp",
     name: "SQL"
   }
 ];
