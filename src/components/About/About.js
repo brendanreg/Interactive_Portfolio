@@ -18,7 +18,7 @@ function About() {
             Passionate about all things IT and InfoSec.
           </div>
           <div className="AboutBio tagline2">
-            Competent with the following technologies:
+            Experienced with the following technologies:
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
